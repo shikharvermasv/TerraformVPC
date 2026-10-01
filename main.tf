@@ -14,8 +14,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      Name        = "2392829"
-      cco_trainee = "2392829@cognizant.com"
+      Project   = "Terraform VPC"
+      ManagedBy = "Terraform"
     }
   }
 }
